@@ -22,6 +22,8 @@
 
 実験では，Pythonというプログラミング言語を使用します．実験開始前に，[WinPython.zip](https://github.com/naka-tomo/image_proc_exp/blob/master/Python/WinPython.zip?raw=true)からダウンロードし，`右クリック`&rarr;`7-Zip`&rarr;`ここに展開`で展開しなさい．
 
+【注意】WinPython.zip をマイドキュメントまたはデスクトップに保存することを勧めます．zip の展開パスに日本語が入っていると，後述する IDLEX などが起動しません．
+
 ## 練習
 
 各課題に応じて，ソースコードと画像をダウンロードし，ソースコードを書き換えて実行することになります．以下の手順をよく確認し，何をしているかを理解して，課題へと進みなさい．
