@@ -183,7 +183,7 @@
 - **感想**
 
 レポートは*PDF*に変換しメールにて提出．
-- 宛先：uec.image.proc@(あっと)gmail.com
+- 宛先：uec.image.proc(あっと)gmail.com
 
 - タイトル：画像処理の基礎レポート
 
