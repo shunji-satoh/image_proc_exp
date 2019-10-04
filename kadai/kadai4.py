@@ -28,7 +28,7 @@ for x in range(1,11):
         for xx in range(3):
             for yy in range(3):
                 # ここでfilterの値をgazoに掛ける
-                gasochi += gazo[y+yy-1][x+xx-1]
+                gasochi += filter[yy][xx]*gazo[y+yy-1][x+xx-1]
 
         # 0〜255の範囲内に収める 
         gasochi = int(gasochi) 
