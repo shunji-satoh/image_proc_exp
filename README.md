@@ -94,7 +94,7 @@
 
 
 
-### 課題5. ヒストグラムと二値化
+### 課題4. ヒストグラムと二値化
 
 [ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai5.py)
 
@@ -106,7 +106,7 @@
 
 1. レポートでは，作成したプログラムによってどのような処理が行われているのかを説明しなさい．また，その処理の中で使われている値を選択した理由を，ヒストグラムを使って分かりやすく説明しなさい．
 
-### 課題6. ヒストグラムと階調変換
+### 課題5. ヒストグラムと階調変換
 
 [ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai6.py)
 
@@ -119,7 +119,7 @@
 
 1. レポートでは，作成したプログラムによってどのような処理が行われているのかを説明しなさい．また，その処理の中で使われている値や式を選択した理由を，ヒストグラムを使って分かりやすく説明しなさい．
 
-### 課題4. フィルタ
+### 課題6. フィルタ
 
 [ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai4.py)
 
