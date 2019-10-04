@@ -96,9 +96,9 @@
 
 ### 課題4. ヒストグラムと二値化
 
-[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai5.py)
+[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai5.py) 都合上ファイル名が kadai5.py となっているので注意してください．
 
-[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai5.bmp)
+[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai5.bmp) 都合上ファイル名が kadai5.bmp となっているので注意してください．
 
 1. ソースコードをダウンロードして実行し，ソースコードを読んで何をしているかを確認しなさい．
 
@@ -108,9 +108,9 @@
 
 ### 課題5. ヒストグラムと階調変換
 
-[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai6.py)
+[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai6.py) 都合上ファイル名が kadai6.py となっているので注意してください． 
 
-[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai6.bmp)
+[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai6.bmp) 都合上ファイル名が kadai6.bmp となっているので注意してください． 
 
 1. ソースコードをダウンロードして実行し，ソースコードを読んで何をしているかを確認しなさい．
 
@@ -121,9 +121,9 @@
 
 ### 課題6. フィルタ
 
-[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai4.py)
+[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai4.py) 都合上ファイル名が kadai4.py となっているので注意してください．
 
-[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai4.bmp)
+[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/kadai4.bmp) 都合上ファイル名が kadai4.bmp となっているので注意してください．
 
 1. ソースコードをダウンロードして実行し，ソースコードを読んで何をしているかを確認しなさい．
 
