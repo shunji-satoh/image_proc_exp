@@ -20,9 +20,9 @@
 
 ## 準備
 
-実験では，Pythonというプログラミング言語を使用します．実験開始前に，[WinPython.zip](https://github.com/shunji-satoh/image_proc_exp/blob/master/Python/WinPython.zip?raw=true)からダウンロードし，`右クリック`&rarr;`7-Zip`&rarr;`ここに展開`で展開しなさい．
+実験では，Pythonというプログラミング言語を使用します．実験開始前に，[WinPython.zip](https://github.com/shunji-satoh/image_proc_exp/blob/master/Python/WinPython.zip?raw=true)からダウンロードし C:\ユーザ\(あなたの UEC アカウント)\マイドキュメント\ に保存してください．つぎにダウンロードした zip ファイルを，`右クリック`&rarr;`7-Zip`&rarr;`ここに展開`で展開しなさい．
 
-【注意】WinPython.zip をマイドキュメントまたはデスクトップに保存することを勧めます．zip の展開パスに日本語が入っていると，後述する IDLEX などが起動しません．
+【注意】WinPython.zip をまずは Cドライブ以下のマイドキュメントまたはデスクトップに保存することを勧めます．zip の展開パスに日本語が入っていると，後述する IDLEX などが起動しません．
 
 ## 練習
 
@@ -31,8 +31,6 @@
 1. 以下のソースコードと画像を右クリックメニューの`名前をつけてリンク先を保存`で**同じフォルダ内**に**ファイル名は変更せずに**保存しなさい．
 <br>　[ソースコード](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/hello_world.py)
 <br>　[画像](https://raw.githubusercontent.com/shunji-satoh/image_proc_exp/master/kadai/hello_world.png)
-
-1. Windows を再起動してください．
 
 1. [準備](#準備)でダウンロードし，展開したフォルダ内の`IDLEX (Python GUI)`をダブルクリックで起動しなさい．IDLEXはPythonのソースコードを編集・実行するためのソフトです．<br><img src="img/idle.gif" width="400" alt="" border="1">
 
