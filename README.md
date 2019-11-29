@@ -20,7 +20,7 @@
 
 ## 準備
 
-実験では，Pythonというプログラミング言語を使用します．実験開始前に，[WinPython.zip](https://github.com/shunji-satoh/image_proc_exp/blob/master/Python/WinPython.zip?raw=true)からダウンロードし **C:\ユーザ\(あなたの UEC アカウント)\マイドキュメント** 以下に保存してください．つぎにダウンロードした zip ファイルを，`右クリック`&rarr;`7-Zip`&rarr;`ここに展開`で展開しなさい．
+実験では，Pythonというプログラミング言語を使用します．実験開始前に，[WinPython.zip](https://github.com/shunji-satoh/image_proc_exp/blob/master/Python/WinPython.zip?raw=true)からダウンロードし **C:\ユーザ\(あなたの UEC アカウント)\(英数字の適当なフォルダ)** 以下に保存してください．**W:\** ドライブでは **ありません** つぎにダウンロードした zip ファイルを，`右クリック`&rarr;`7-Zip`&rarr;`ここに展開`で展開しなさい．
 
 【注意】WinPython.zip をまずは Cドライブ以下のマイドキュメントまたはデスクトップに保存することを勧めます．zip の展開パスに日本語が入っていると，後述する IDLEX などが起動しません．
 
